@@ -10,6 +10,7 @@ Filtered Result
 ![Filtered Result](/images/05_result.jpg  "Filtered Result")
 
 **Installation:** Blender -> Edit -> Preferences -> Add-ons -> Install -> select Scan_Filter.py
+
 **Appearance:** Properties Window -> Object Tab -> Scan Filter
 
 **Properties:**
