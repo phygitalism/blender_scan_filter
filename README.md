@@ -9,7 +9,7 @@ Original Mesh
 Filtered Result
 ![Filtered Result](/images/05_result.jpg  "Filtered Result")
 
-**Installation:** Blender -> Edit -> Preferences -> Add-ons -> Install -> select Scan_Filter.py
+**Installation:** Blender -> Edit -> Preferences -> Add-ons -> Install -> select scan_filter.py
 
 **Appearance:** Properties Window -> Object Tab -> Scan Filter
 
