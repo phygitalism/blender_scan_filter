@@ -12,6 +12,7 @@ Filtered Result
 **Installation:** Blender -> Edit -> Preferences -> Add-ons -> Install -> select Scan_Filter.py
 
 **Appearance:** Properties Window -> Object Tab -> Scan Filter
+![UI](/images/UI.jpg  "UI")
 
 **Properties:**
 - Floor Height Limit - The ratio of floor height to the total height of the bounding box.
